@@ -259,7 +259,7 @@ default_algorithm: "AES"
 1. **Fork the repository** and clone it locally:
 
 ```bash
-git clone https://github.com/your-username/Quantum-Engine.git
+git clone https://github.com/tanm-sys/Quantum-Engine.git
 cd Quantum-Engine
 ```
 
