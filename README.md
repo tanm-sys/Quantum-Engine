@@ -1,6 +1,6 @@
 # Secure File Encryption Toolkit
 
-![GitHub Build Status](https://github.com/tanm-sys/Quantum-Engine/actions/workflows/build.yml/badge.svg)
+
 ![License](https://img.shields.io/github/license/tanm-sys/Quantum-Engine)
 ![Python Version](https://img.shields.io/badge/python-3.9%2B-blue)
 ![Coverage Status](https://img.shields.io/codecov/c/github/tanm-sys/Quantum-Engine)
