@@ -318,7 +318,7 @@ Yes! The toolkit is released under the MIT License, which allows for both person
 
 ### How do I report a vulnerability?
 
-Please report security vulnerabilities to our maintainers at [security@quantum-engine.com](mailto:tanmayspatil2006@gmail.com).
+Please report security vulnerabilities to our maintainers at [tanmayspatil2006@gmail.com](mailto:tanmayspatil2006@gmail.com).
 
 ## Troubleshooting Support
 
@@ -348,7 +348,7 @@ This project is licensed under the terms of the MIT License. See [LICENSE](LICEN
 
 ## Maintainers & Contact
 
-- **Tanmay Patil** ([tanmay@quantum-engine.com](mailto:tanmayspatil2006@gmail.com))
+- **Tanmay Patil** ([tanmayspatil2006@gmail.com](mailto:tanmayspatil2006@gmail.com))
 - GitHub: [tanm-sys](https://github.com/tanm-sys)
 
-For general inquiries, contact us at [info@quantum-engine.com](mailto:tanmayspatil2006@gmail.com).
+For general inquiries, contact us at [tanmayspatil2006@gmail.com](mailto:tanmayspatil2006@gmail.com).
