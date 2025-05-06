@@ -351,4 +351,7 @@ This project is licensed under the terms of the MIT License. See [LICENSE](LICEN
 - **Tanmay Patil** ([tanmayspatil2006@gmail.com](mailto:tanmayspatil2006@gmail.com))
 - GitHub: [tanm-sys](https://github.com/tanm-sys)
 
+- **Shrinath Agre** ([shrinathagre@gmail.com](mailto:shrinathagre@gmail.com))
+- GitHub: [](https://github.com/)
+
 For general inquiries, contact us at [tanmayspatil2006@gmail.com](mailto:tanmayspatil2006@gmail.com).
