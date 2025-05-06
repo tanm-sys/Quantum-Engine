@@ -319,6 +319,7 @@ Yes! The toolkit is released under the MIT License, which allows for both person
 ### How do I report a vulnerability?
 
 Please report security vulnerabilities to our maintainers at [tanmayspatil2006@gmail.com](mailto:tanmayspatil2006@gmail.com).
+Backup mail: shrinathagre@gmail.com
 
 ## Troubleshooting Support
 
@@ -344,7 +345,7 @@ Special thanks to the open-source communities behind:
 
 ## License
 
-This project is licensed under the terms of the MIT License. See [LICENSE](LICENSE) for more details.
+This project is licensed under the terms of the GPL-3.0 License. See [LICENSE](LICENSE) for more details.
 
 ## Maintainers & Contact
 
