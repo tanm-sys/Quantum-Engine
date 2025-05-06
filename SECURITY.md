@@ -19,8 +19,7 @@ If you discover a security vulnerability in the Quantum Engine, please report it
 ### How to Report
 
 1. **Private Disclosure**: To ensure the safety of our users, please report vulnerabilities privately by contacting us:
-   - **Email**: [security@quantumengine.com](mailto:security@quantumengine.com)
-   - **PGP Key**: Attach security issues securely using our [PGP key](https://quantumengine.com/pgp-key).
+   - **Email**: [shrinathagre@gmail.com](shrinathagre@gmail.com)
 2. **Provide Details**:
    - A clear and detailed description of the vulnerability.
    - Steps to reproduce the issue, including code samples (if applicable).
@@ -34,13 +33,13 @@ We strongly discourage public disclosure of vulnerabilities until a fix has been
 
 ## Security Updates
 
-We regularly review and update the Quantum Engine to address security concerns. All security updates are documented in the [CHANGELOG.md](https://github.com/tanm-sys/Quantum-Engine/blob/main/CHANGELOG.md) and communicated via the [Releases](https://github.com/tanm-sys/Quantum-Engine/releases) page.
+We regularly review and update the Quantum Engine to address security concerns. All security updates are documented in the [CHANGELOG.md](https://github.com/tanm-sys/Quantum-Engine/blob/main/CHANGELOG.md)(coming soon) and communicated via the [Releases](https://github.com/tanm-sys/Quantum-Engine/releases)(coming soon) page.
 
 ## Best Practices for Users
 
 To ensure the security of your Quantum Engine deployment:
 - **Update Regularly**: Keep your installation up-to-date with the latest security patches.
-- **Secure Configuration**: Follow our [Configuration Guide](https://github.com/tanm-sys/Quantum-Engine/wiki/Configuration-Guide) to minimize exposure.
+- **Secure Configuration**: Follow our [Configuration Guide](https://github.com/tanm-sys/Quantum-Engine/wiki/Configuration-Guide)(coming soon)to minimize exposure.
 - **Access Control**: Restrict access to sensitive files and directories.
 - **Dependency Management**: Regularly audit dependencies for known vulnerabilities using tools like [Dependabot](https://github.com/dependabot).
 
