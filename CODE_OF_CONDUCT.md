@@ -36,7 +36,7 @@ This Code of Conduct applies within all project spaces, including public forums,
 
 ## Reporting Incidents
 
-If you experience or witness any violation of this Code of Conduct, please report it by contacting the project maintainers at [tanmayspatil2006@gmail.com](mailto:tanmayspatil2006@gmail.com).(mailto:shrinathagre@gmail.com) All complaints will be reviewed and investigated promptly and fairly.
+If you experience or witness any violation of this Code of Conduct, please report it by contacting the project maintainers at [tanmayspatil2006@gmail.com](mailto:tanmayspatil2006@gmail.com).(shrinathagre@gmail.com) All complaints will be reviewed and investigated promptly and fairly.
 
 ## Enforcement
 
