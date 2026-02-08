@@ -19,3 +19,4 @@ pyreadline3
 readchar
 prompt_toolkit
 PyYAML
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
